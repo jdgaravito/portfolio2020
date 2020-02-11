@@ -1,5 +1,7 @@
 <script>
-  export let bgImage;
+
+
+   
 </script>
 
 <style>
@@ -12,7 +14,7 @@
   }
 </style>
 
-<div class="wrapper" style="--image: url({bgImage});">
+<div class="wrapper">
 <div class="inner">
 
 </div>

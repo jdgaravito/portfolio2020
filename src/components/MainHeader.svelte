@@ -3,6 +3,8 @@
   export let bgColor;
   export let color;
   export let segment;
+
+  
 </script>
 
 <style>
